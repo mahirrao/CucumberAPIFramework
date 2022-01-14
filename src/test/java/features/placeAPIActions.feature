@@ -16,7 +16,7 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@tag
+@Regression
 Feature: Add Place API
 
   @AddPlace
