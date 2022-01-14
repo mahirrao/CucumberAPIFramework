@@ -7,7 +7,7 @@ import io.cucumber.testng.CucumberOptions;
 		features = "src/test/java/features",
 		glue = "stepDefinitions",
 		monochrome = true,
-		tags = "@AddPlace or @DeletePlace",
+//		tags = "@AddPlace or @DeletePlace",
 		plugin = {
 				"html:target/cucumber-html-report/cucumber.html",
 				"json:target/cucumber-reports/cucumber.json",
